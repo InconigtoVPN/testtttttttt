@@ -1,0 +1,23 @@
+name = "vvip-inconigto"
+main = "_worker.js"
+compatibility_date = "2023-05-26"
+# node_compat = true
+workers_dev = true
+routes = [
+  { pattern = "vvip.inconigto.us.kg", custom_domain = true },
+  { pattern = "ava.game.naver.com.vvip.inconigto.us.kg", custom_domain = true },
+  { pattern = "df.game.naver.com.vvip.inconigto.us.kg", custom_domain = true },
+  { pattern = "graph.instagram.com.vvip.inconigto.us.kg", custom_domain = true },
+  { pattern = "zaintest.vuclip.com.vvip.inconigto.us.kg", custom_domain = true },
+  { pattern = "support.zoom.us.vvip.inconigto.us.kg", custom_domain = true },  
+  { pattern = "uts-front.line-apps.com.vvip.inconigto.us.kg", custom_domain = true },
+  { pattern = "stickershop.line.me.vvip.inconigto.us.kg", custom_domain = true },
+  { pattern = "i-integration-gojekapi.com.vvip.inconigto.us.kg", custom_domain = true },
+  { pattern = "gopay-raccoon.gojekapi.com.vvip.inconigto.us.kg", custom_domain = true },
+  { pattern = "media-cgk1-1.cdn.whatsapp.net.vvip.inconigto.us.kg", custom_domain = true },
+  { pattern = "sentry-uit.line-apps.com.vvip.inconigto.us.kg", custom_domain = true },
+  { pattern = "api.midtrans.com.vvip.inconigto.us.kg", custom_domain = true },
+  { pattern = "ads.ruangguru.com.vvip.inconigto.us.kg", custom_domain = true },
+  { pattern = "cache.netflix.com.vvip.inconigto.us.kg", custom_domain = true }
+]
+[vars]
