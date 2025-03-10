@@ -12,7 +12,6 @@ routes = [
   { pattern = "support.zoom.us.inconigto.web.id", custom_domain = true },  
   { pattern = "uts-front.line-apps.com.inconigto.web.id", custom_domain = true },
   { pattern = "stickershop.line.me.inconigto.web.id", custom_domain = true },
-  { pattern = "i-integration-gojekapi.com.inconigto.web.id", custom_domain = true },
   { pattern = "gopay-raccoon.gojekapi.com.inconigto.web.id", custom_domain = true },
   { pattern = "media-cgk1-1.cdn.whatsapp.net.inconigto.web.id", custom_domain = true },
   { pattern = "sentry-uit.line-apps.com.inconigto.web.id", custom_domain = true },
